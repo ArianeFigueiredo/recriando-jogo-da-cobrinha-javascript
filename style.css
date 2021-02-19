@@ -1,0 +1,10 @@
+body{
+    height: 95 vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    flex-direction: column;
+    color: goldenrod;
+}
